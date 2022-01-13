@@ -1,0 +1,35 @@
+@font-face {
+  font-family: "PT_Russia-Text";
+  src: url("./PT_Russia-Text.ttf") format("ttf");
+  font-weight: normal;         
+}
+
+@font-face {
+  font-family: "PT_Russia-Text";
+  src: url("./PT_Russia-Text-Medium.ttf") format("ttf");
+  /* ввообще 600 это семиболд, вставил это, потому что его нет */
+  font-weight: 600;
+}
+
+@font-face {
+  font-family: "PT_Russia-Text";
+  src: url("./PT_Russia-Text-Bold.ttf") format("ttf");
+  font-weight: bold;         
+}
+
+@font-face {
+  font-family: "PT_Russia-Text";
+  src: url("./PT_Russia-Text-Black.ttf") format("ttf");
+  font-weight: 900;         
+}
+
+.Theme_font_SprfDefault {
+  --font-primary: "PT_Russia Text";
+  --font-mono: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+  font-family: var(--font-primary);
+}
+
+
+
+

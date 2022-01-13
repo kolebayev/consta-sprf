@@ -37,13 +37,13 @@ const fileProcessing = (item) => {
   {
     target: "./themeProcessing/",
     result: "./src/Components/Theme/",
-    files: ["FigmaDefault", "FigmaDark"],
+    files: ["SprfDefault", "SprfDark"],
     modifier: "color",
   },
   {
     target: "./themeProcessing/",
     result: "./src/Components/Theme/",
-    files: ["FigmaDefault"],
+    files: ["SprfDefault"],
     modifier: "shadow",
   },
 ].forEach((item) => fileProcessing(item));
