@@ -22,7 +22,7 @@
   /* Ширина шрифта */
   /* этих двух нет в шрифте */
   /* --font-weight-text-thin: 100; */
-  /* --font-weight-text-light: 300; */
+  --font-weight-text-light: 300;
   --font-weight-text-regular: normal;
   --font-weight-text-semibold: 600;
   --font-weight-text-bold: bold;

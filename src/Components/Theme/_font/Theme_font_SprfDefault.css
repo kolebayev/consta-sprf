@@ -1,30 +1,57 @@
 @font-face {
   font-family: "PT_Russia-Text";
-  src: url("./PT_Russia-Text.ttf") format("ttf");
+  src: url("./pt-russia/PT_Russia-Text.ttf") format("ttf");
   font-weight: normal;         
 }
 
 @font-face {
   font-family: "PT_Russia-Text";
-  src: url("./PT_Russia-Text-Medium.ttf") format("ttf");
+  src: url("./pt-russia/PT_Russia-Text-Medium.ttf") format("ttf");
   /* ввообще 600 это семиболд, вставил это, потому что его нет */
   font-weight: 600;
 }
 
 @font-face {
   font-family: "PT_Russia-Text";
-  src: url("./PT_Russia-Text-Bold.ttf") format("ttf");
+  src: url("./pt-russia/PT_Russia-Text-Bold.ttf") format("ttf");
   font-weight: bold;         
 }
 
 @font-face {
   font-family: "PT_Russia-Text";
-  src: url("./PT_Russia-Text-Black.ttf") format("ttf");
+  src: url("./pt-russia/PT_Russia-Text-Black.ttf") format("ttf");
   font-weight: 900;         
+}
+
+@font-face {
+  font-family: "TT Jenevers";
+  src: url("./tt-jenevers/TTJenevers-Regular.ttf") format("truetype");
+  font-weight: normal;         
+}
+
+@font-face {
+  font-family: "TT Jenevers";
+  src: url("./tt-jenevers/TTJenevers-Italic.ttf") format("truetype");
+  font-weight: normal;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "TT Jenevers";
+  src: url("./tt-jenevers/TTJenevers-Light.ttf") format("truetype");
+  font-weight: 300;         
+}
+
+@font-face {
+  font-family: "TT Jenevers";
+  src: url("./tt-jenevers/TTJenevers-LightItalic.ttf") format("truetype");
+  font-weight: normal;
+  font-style: italic;
 }
 
 .Theme_font_SprfDefault {
   --font-primary: "PT_Russia Text";
+  --font-secondary: "TT Jenevers";
   --font-mono: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
   font-family: var(--font-primary);
