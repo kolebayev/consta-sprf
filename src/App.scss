@@ -5,6 +5,12 @@
 }
 
 .app {
+  &__layout-top-wrapper {
+    width: 100vw;
+    position: fixed;
+    background-color: var(--color-bg-default);
+    z-index: 99999;
+  }
   &__layout-wrapper {
     max-width: 1024px;
     margin: auto;
@@ -15,10 +21,8 @@
     justify-content: space-between;
     border-bottom: 1px solid var(--color-bg-border);
     padding: 8px 0;
-    position: fixed;
-    background-color: var(--color-bg-default);
     width: 1024px;
-    z-index: 99999;
+
     &-left {
       display: inherit;
       align-items: center;
