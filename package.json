@@ -20,7 +20,7 @@
     "eject": "react-scripts eject",
     "colors": "node ./themeProcessing/themeProcessing.js",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "deploy": "gh-pages -b main -d build"
   },
   "eslintConfig": {
     "extends": [
