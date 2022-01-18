@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/consta-sprf/static/css/main.8bd98a59.css",
+    "main.js": "/consta-sprf/static/js/main.7fa03633.js",
+    "static/js/787.a1529afa.chunk.js": "/consta-sprf/static/js/787.a1529afa.chunk.js",
+    "static/media/TTJenevers-Italic.ttf": "/consta-sprf/static/media/TTJenevers-Italic.f8a02735d43cbefc938d.ttf",
+    "static/media/TTJenevers-Regular.ttf": "/consta-sprf/static/media/TTJenevers-Regular.434cf978a318b83bfdc8.ttf",
+    "static/media/TTJenevers-LightItalic.ttf": "/consta-sprf/static/media/TTJenevers-LightItalic.d09b96eeacf3277f02f4.ttf",
+    "static/media/TTJenevers-Light.ttf": "/consta-sprf/static/media/TTJenevers-Light.bf287c985348a2d50996.ttf",
+    "static/media/xcd4lhig968lvo2fq1v6ikm5bji6g3y0.png": "/consta-sprf/static/media/xcd4lhig968lvo2fq1v6ikm5bji6g3y0.da8db710d057ebfbab21.png",
+    "static/media/PT_Russia-Text.ttf": "/consta-sprf/static/media/PT_Russia-Text.bcd74f6f78836370aa7c.ttf",
+    "static/media/main-bg.svg": "/consta-sprf/static/media/main-bg.d5a1669a75a177ad597d.svg",
+    "static/media/PT_Russia-Text-Medium.ttf": "/consta-sprf/static/media/PT_Russia-Text-Medium.13e0b5ca5089c5111ccc.ttf",
+    "static/media/PT_Russia-Text-Bold.ttf": "/consta-sprf/static/media/PT_Russia-Text-Bold.f36e8b835742ec7a2b9e.ttf",
+    "static/media/logo-small.png": "/consta-sprf/static/media/logo-small.b73d6a3027eab191d150.png",
+    "static/media/jpg": "/consta-sprf/static/media/1ce76dd3d027ca653cea086e76fb620b.10841ba8da0d22444cdf.jpg",
+    "static/media/PT_Russia-Text-Black.ttf": "/consta-sprf/static/media/PT_Russia-Text-Black.a8b4a4ae82315a6045bb.ttf",
+    "static/media/ava-xs.svg": "/consta-sprf/static/media/ava-xs.624da1aad44705122d34c95e5404a009.svg",
+    "static/media/logo.svg": "/consta-sprf/static/media/logo.79e5755080a159d5eaf310094bc2e220.svg",
+    "index.html": "/consta-sprf/index.html",
+    "main.8bd98a59.css.map": "/consta-sprf/static/css/main.8bd98a59.css.map",
+    "main.7fa03633.js.map": "/consta-sprf/static/js/main.7fa03633.js.map",
+    "787.a1529afa.chunk.js.map": "/consta-sprf/static/js/787.a1529afa.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8bd98a59.css",
+    "static/js/main.7fa03633.js"
+  ]
+}
